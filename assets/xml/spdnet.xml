@@ -36,7 +36,7 @@ SPDNET1.4.3测试服现已经开启！
 <name>SPDNET-DEV</name>
 </author>
 <category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: ITEM: 76"/>
+<category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
 <summary type="html">
 你遇到了一些设计问题？
 你想来看SPDNET的后续计划？
