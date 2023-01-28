@@ -11,6 +11,10 @@ stickie: true
 
 ---
 
+欢迎加入AndroidIDE-PD/Dev讨论群，我们的宗旨是：  
+为想写地牢而无电脑的朋友创造更多可能。
+<h2><a href="https://jq.qq.com/?_wv=1027&k=DOm63Y34">立即加入群聊：731514401</a></h2>
+
 ## 阅前说明：
 本教程主要针对于没有电脑想写地牢的朋友，虽然大家可以直接通过MT文件管理器什么的来逆向写牢。但这样门槛太高，且根本不利于大家学习。而且Smali本身也是Java的Davilk语言，因此各位应该在手机上写正向代码(Java),来自于印度的开发者开发了AndroidIDE,他可以让大家在手机上写地牢成为可能！
 
@@ -46,6 +50,12 @@ ADE和它类似。不过仍然有一些功能不齐全……
 
 #### 安卓11以上的策略：
 其实和安卓10配置差不多，但如果是本地，Android/Data区默认无法访问，请根据自身机型访问。(但内存框架必定可以访问！)
+
+## α：官方部署策略（需要科学上网)
+```bash
+### 速度慢，且默认安装JDK17,后续还要删除
+idesetup -c
+```
 
 ## β：快速NET部署:
 
@@ -128,8 +138,50 @@ export PATH=$PATH:$JAVA_HOME/bin
 
 # 3.开始部署：AndroidIDE-SHPD
 
-在群文件下载ADE优化版，并打开项目，
-然后再等待自行SYNC完成……
+1.在群文件下载ADE优化版，并打开项目，然后再等待自行SYNC完成……
+如下图所示：
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set8.jpg">
+
+## 特别提醒：
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set9.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set10.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set11.jpg">
+
+---
+
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set12.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set13.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set14.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set15.jpg">
+
+1.5.出现该界面后表示项目正在开始初始化：
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set5.jpg">
+
+2.出现该界面后表示项目已经初始化完成：
+
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set6.jpg">
+
+3.可以尝试Run Build,理论上应该跑得起来。
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set7.jpg">
+
+4.如果出现如下图所示，则说明APK包编译成功：
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set16.jpg">
+
+5.DEBUG-APK的保存路径：  
+/storage/emulated/0/AndroidIDEProjects/shattered-pixel-dungeon/android/build/outputs/apk/debug/
+
+可以在这里找到你的DEBUG包，如下图所示：
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set17.jpg">
+
+
+# 4.部署 Release 包
+待完善
+
+# 5.AIDE+ADE的巧妙结合使用
+待完善
+
+# 6.常见问题：AndroidIDE：
+待完善
 
 ### 教程尚未完成-Demo
 
