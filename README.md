@@ -1,4 +1,4 @@
--# Hydrogen
+# Hydrogen
 轻盈、干净
 
 跟随她的脚步，开始你的博客之旅
@@ -13,11 +13,11 @@
 
 ~~点点~~Star~~来一个好吗！秋梨膏！！~~
 
-# #快速开始
+## 快速开始
 
 ![hydrogen](/theme/a-h.png)
 
-## #准备
+### 准备
 
 打开主题根目录下的`_config.yml`
 
@@ -48,7 +48,7 @@
 > 开发者选项
 >> `PJAX` : PJAX无刷新加载(布尔值)
 
-## #设置域名
+### 设置域名
 
 修改根目录下的CNAME文件为你的域名即可
 
@@ -56,13 +56,13 @@
 
 ---
 
-## #友链添加
+### 友链添加
 
 打开`_data`目录下的`friends.yml`文件，根据文件中模板新添代码即可
 
 ---
 
-## #文章置顶
+### 文章置顶
 
 在文章Front Matter添加stickie: true即可
 
@@ -76,9 +76,9 @@
  ---
 ```
 
-## #评论
+### 评论
 
-#### #前提
+##### 前提
 
 > 必须确定已阅读[Valine](https://valine.js.org/quickstart.html)文档
 
@@ -90,7 +90,7 @@
 
 确保配置无误后修改`_data/social.yml`中的`enable`值由`false`改为`true`即可
 
-## #写在最后
+### 写在最后
 
 请花10分钟时间**认真**阅读文档，如还有疑难之处，请提[issues](https://github.com/link9596/hydrogen/issues/new)，我会尽力帮忙
 
