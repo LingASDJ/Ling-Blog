@@ -14,7 +14,7 @@
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: Ling.png, 0, 0, 64, 64"/>
+<category term="SHPD_ICON_v533: Ling.png, 0, 0, 16, 16"/>
 <summary type="html">
 魔绫像素地牢寒冷机制简单介绍:
 6-10  寒冷等级:1 天气:小雪
@@ -37,7 +37,7 @@
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: Ling.png, 0, 0, 64, 64"/>
+<category term="SHPD_ICON_v533: Ling.png, 0, 0, 16, 16"/>
 <summary type="html">
 Hello,这里是绫。
 魔绫经过了接近一年的开发，如今终于要走上正式开发的道路了？
