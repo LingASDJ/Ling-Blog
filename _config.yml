@@ -45,8 +45,7 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 4 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: http://103.205.253.39:11450/img/moonxing.8e68a93e.jpeg
-# 新年快乐
+background: https://jdsalingzx.top/assets/img/header/moonxing.jpeg
 theme_color: 3ff6ff7d
 
 # hydrogen-blog date format
