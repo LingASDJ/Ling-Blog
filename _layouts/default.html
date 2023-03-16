@@ -38,24 +38,6 @@
 
   </head>
   <body>
-
-        <!-- 引入Sakana插件 -->
-        <link
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/sakana-widget@2.5.0/lib/sakana.min.css"
-      />
-      <div id="sakana-widget"></div>
-      <script>
-        function initSakanaWidget() {
-          new SakanaWidget().mount('#sakana-widget');
-        }
-      </script>
-      <script
-        async
-        onload="initSakanaWidget()"
-        src="https://cdn.jsdelivr.net/npm/sakana-widget@2.5.0/lib/sakana.min.js"
-      ></script>
-
     <!-- <style>
       html{
           -webkit-filter: red(100%);
@@ -102,6 +84,25 @@
     </script>
 
     <section class="page-header">
+
+
+        <!-- 引入Sakana插件 -->
+        <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/sakana-widget@2.5.0/lib/sakana.min.css"
+      />
+      <div id="sakana-widget"></div>
+      <script>
+        function initSakanaWidget() {
+          new SakanaWidget().mount('#sakana-widget');
+        }
+      </script>
+      <script
+        async
+        onload="initSakanaWidget()"
+        src="https://cdn.jsdelivr.net/npm/sakana-widget@2.5.0/lib/sakana.min.js"
+      ></script>
+
       <h1 class="project-name">{{ page-title }}</h1>
       <h2 class="project-tagline">{{ page-tagline }}</h2>
       {% if page.layout == 'post' %}
