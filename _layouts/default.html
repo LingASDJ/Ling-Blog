@@ -104,6 +104,24 @@
       {{ content }}
 
       <footer class="site-footer">
+
+        <!-- 引入Sakana插件 -->
+        <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/sakana-widget@2.5.0/lib/sakana.min.css"
+      />
+      <div id="sakana-widget"></div>
+      <script>
+        function initSakanaWidget() {
+          new SakanaWidget().mount('#sakana-widget');
+        }
+      </script>
+      <script
+        async
+        onload="initSakanaWidget()"
+        src="https://cdn.jsdelivr.net/npm/sakana-widget@2.5.0/lib/sakana.min.js"
+      ></script>
+
         <span id="sitetime" style="color:#009688;"></span><script type='text/javascript' src='assets/js/timex.js'></script><br>
         <span class="site-footer-credits">Power By<a href="https://github.com/link9596/hydrogen/"> Hydrogen</a>.---</span>
         <span style="color:#009688;" class="lsxs">JDSALing-Blog-[2021-2023]-All right Reserved & ColdMint-CDN </span>
@@ -186,7 +204,8 @@
       {% if site.PJAX %}
       <script src = '/assets/js/instantclick.min.js' data-no-instant></script>
       <script data-no-instant>InstantClick.on('change', function (isInitialLoad) {
-          document.getElementById('fold').style.height='0px';//初始化
+          document.getElementById('fold').style.height='0px';
+          //初始化
             if (isInitialLoad === false) {
                 //instantClick回调函数
             }
