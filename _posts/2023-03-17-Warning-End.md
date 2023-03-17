@@ -5,20 +5,20 @@ tags: [Video,危机合约,明日方舟]
 author: jdsaling
 ---
 
-### 危机合约#12-起源行动:
+<marquee><center><b><font color=red size="6px">再见了，所有的危机合约</font></b></center></marquee>
 
-<img src="http://39.105.229.249/ftp/ling/cdnpng/wr/red.png"> 
+<img src="http://39.105.229.249/ftp/ling/cdnpng/wr/red.png">
 
 <br>
 
-<center><b><font color=red size="8px">烈火重燃，恐惧从未熄灭，既为起源，也为终点。</font></b></center>
+<center><b><font color=red size="6px">烈火重燃，恐惧从未熄灭，既为起源，也为终点。</font></b></center>
 
 <iframe src="//player.bilibili.com/player.html?aid=568592550&bvid=BV15v4y1L7nB&cid=1055188229&page=1" scrolling="no" border="0" height=420 width='100%' frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <img src="http://39.105.229.249/ftp/ling/cdnpng/wr/soure12.png">
 
 <br>
-
+<center><b><font color=red size="6px">已公布的TAG:</font></b></center>
 <img src="http://39.105.229.249/ftp/ling/cdnpng/wr/soure21.png">
 
 
