@@ -5,7 +5,8 @@ tags: [Video,危机合约,明日方舟]
 author: jdsaling
 ---
 
-<marquee><center><b><font color=red size="6px">再见了，所有的危机合约</font></b></center></marquee>
+## 再见了，所有的危机合约!
+建议阅读时间：5分钟
 
 <img src="http://39.105.229.249/ftp/ling/cdnpng/wr/red.png">
 

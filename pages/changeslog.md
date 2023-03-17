@@ -5,6 +5,14 @@ permalink: /changes.html
 tags: [ChangesLogs,Blog,Jekyll]
 ---
 
+#### 2023-3-17——(博客维护日志-类型：更新)
+* 更新了新博客(类型:更新):
+
+<img src="http://39.105.229.249/ftp/ling/cdnpng/wr/red.png">
+
+#### [危机合约-起源行动](https://jdsalingzx.top/2023/03/17/Warning-End.html)
+
+
 #### 2023-1-2——(博客维护日志-类型：优化)
 1.对部分网页进行了CDN加速优化  
 2.其他小型Bug修复
@@ -13,7 +21,6 @@ tags: [ChangesLogs,Blog,Jekyll]
 
 * 更新了新博客(类型:更新):
 #### [再见2022，你好2023！](https://jdsalingzx.top/2022/12/31/GoodBye2022.html)
-<img src="http://103.205.253.39:11450/img/1.c209cd2e.jpg">
 
 #### 2022-12-02——(博客维护日志-类型：更新)
 
