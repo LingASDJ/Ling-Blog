@@ -72,7 +72,7 @@ idesetup -c -j 11
 
 ### Android/data/ 在安卓11以上无法随便访问
 
-idesetup -m idesetup -m file:///storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/install-patch.json -j 11
+idesetup -m file:///storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/install-patch.json -j 11
 
 ```
 
