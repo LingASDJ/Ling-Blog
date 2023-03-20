@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AndroidIDE-让手机写地牢Mod成为可能-Demo(尚未完成)
+title:  AndroidIDE-让手机写地牢Mod成为可能-Demo2
 tags: [2023,Java,IDEA,Termux,Github,Gradle,SetUp]
 author: JDSALing
 ---
@@ -50,32 +50,15 @@ ADE和它类似。不过仍然有一些功能不齐全……
 #### 安卓11以上的策略：
 其实和安卓10配置差不多，但如果是本地，Android/Data区默认无法访问，请根据自身机型访问。(但内存框架必定可以访问！)
 
-## α：官方部署策略（需要科学上网)
+## α：官方部署策略--需要科学上网
+推荐的梯子：
+[Geph-迷雾通](https://jdsalinghub.top/geph-official/geph4-client/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89)
 ```bash
-### 速度慢，且默认安装JDK17,后续还要删除
-idesetup -c
+### 速度慢,并不推荐此方法
+idesetup -c -j 11
 ```
 
-## β：快速NET部署:
-
-A.首次进入你将会看见这个界面：
-<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set1.jpg">
-B.当你点击确定后应该会看见这个界面：
-<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set1.5.jpg">
-C.快速配置你的SDK：  
-```bash
-idesetup -m url http://39.105.229.249/ftp/ling/json/manifest.json
-```
-D.如下图所示：
-<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set2.jpg">
-
-E.当你回车后所有的提醒都输入Y
-<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set3.jpg">
-
-F.当出现<b><font color="#00cc00">You are ready to go</font></b>说明你的SDK环境已经配置完成
-<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set4.jpg">
-
-## γ：本地手动部署:
+## β：本地手动部署:
 
 1.首先清楚QQ的下载路径：
 ### A.常规QQ:
@@ -89,53 +72,14 @@ F.当出现<b><font color="#00cc00">You are ready to go</font></b>说明你的SD
 
 ### Android/data/ 在安卓11以上无法随便访问
 
-idesetup -m file:///storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/manifest.json
+idesetup -m idesetup -m file:///storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/install-patch.json -j 11
 
 ```
 
 3.当出现<b><font color="#00cc00">You are ready to go</font></b>说明你的SDK环境已经配置完成
 <img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/Set4.jpg">
 
-# 2.开始部署：AndroidIDE-JDK
-在群文件中下载了JDK11包或者是在下方链接获取到包后如何使用？
-
-### A.QQ群文件下载部署流程
-
-这里我们以常规QQ为例子：
-
-```bash
-### 如果显示Permission Denied则说明是安卓11（请复制需要的文件到可以访问的文件夹中）
-
-### Android/data/ 在安卓11以上无法随便访问
-
-cd /storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/
-
-### 复制JDK11到Home目录
-
-cp jdk11-aarch64.tar.xz ~
-
-### 跳转到Home目录
-cd ~
-
-### 解压这个包
-tar xvf jdk11-aarch64.tar.xz
-
-### 安装VIM编辑器
-pkg install vim -y
-
-### 创建环境变量配置文件
-vim ~/.bash_profile
-
-### 写进去
-export JAVA_HOME=~/jdk/openjdk-11.0.1
-export PATH=$PATH:$JAVA_HOME/bin
-
-### 按下面的ESC，并输入:wq
-:wq
-
-```
-
-# 3.开始部署：AndroidIDE-SHPD
+# 2.开始部署：AndroidIDE-SHPD
 
 1.在群文件下载ADE优化版，并打开项目，然后再等待自行SYNC完成……
 如下图所示：
@@ -174,9 +118,6 @@ export PATH=$PATH:$JAVA_HOME/bin
 
 
 # 4.部署 Release 包
-待完善
-
-# 5.AIDE+ADE的巧妙结合使用
 待完善
 
 # 6.常见问题：AndroidIDE：
