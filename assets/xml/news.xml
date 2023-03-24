@@ -5,57 +5,60 @@
 <updated>2021-08-17T18:04:16+00:00</updated>
 <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
 <entry>
-<title type="html">P3情报--寒冷机制</title>
+<title type="html">即将到来：篝火/寒冰机制</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-6-21T03:00:00+00:00</published>
-<updated>3055-6-21T03:00:00+00:00</updated>
+<published>3055-6-22T03:00:00+00:00</published>
+<updated>3055-6-22T03:00:00+00:00</updated>
+<ling>700999</ling>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 550"/>
+<summary type="html">
+水晶之心的镇压已经出现了差错，整个地牢都被影响了
+夺回水晶之心，让这一切迎来终结。
+可封印的残缺力量啊，你还能撑多久呢？
+</summary>
+</entry>
+<entry>
+<title type="html">即将到来：每日狩猎</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-22T03:00:00+00:00</published>
+<updated>3055-6-22T03:00:00+00:00</updated>
 <ling>700999</ling>
 <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
 <author>
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: Ling.png, 0, 0, 16, 16"/>
+<category term="SHPD_ICON_v533: Npcs/DKGirl.png, 0, 0, 16, 16"/>
 <summary type="html">
-魔绫像素地牢寒冷机制简单介绍:
-6-10  寒冷等级:1 天气:小雪
-11-15 寒冷等级:2 天气:大雪或中雪
-16-20 寒冷等级:3 天气:暴风雪
-21-25 寒冷等级:4 天气:暴风雪+急剧寒冷
-=========================================================
-当然，MLPD-P3还有很多东西，如果你想知道更多，不妨加入MLPD总群吧！
-好啦，关于MLPD-P3的消息就到这里了，敬请期待P3的全新旅程吧！
----By MLPD-DEV Team
+衪曾经救了这个世界，但衪同样也被世界抛弃，衪不会善罢甘休的。
+这里的时间，似乎被锁在了一个循环中……
+总而言之，我会继续在这里入驻的，直到风暴来临。
+我会每天给你安排狩猎任务，完成这些任务你可以得到一笔不错的丰厚奖励。
 </summary>
 </entry>
 <entry>
-<title type="html">MLPD--P3的情报来啦！</title>
+<title type="html">即将到来：宝藏迷宫--隐藏10层</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-6-20T03:00:00+00:00</published>
-<updated>3055-6-20T03:00:00+00:00</updated>
+<published>3055-6-22T03:00:00+00:00</published>
+<updated>3055-6-22T03:00:00+00:00</updated>
+<ling>700999</ling>
 <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
 <author>
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: Ling.png, 0, 0, 16, 16"/>
+<category term="SHPD_ICON_v533: sprites/boss/DimandKing.png, 0, 0, 24, 16"/>
 <summary type="html">
-Hello,这里是绫。
-魔绫经过了接近一年的开发，如今终于要走上正式开发的道路了？
-MLPD-V0.6-Beta21-P3将是上半段的最终更新，它主要包含以下情报：
-1.重写世界观，魔绫现在正式进入主线阶段
-2.森林层重做，新Boss:克里弗斯之果
-3.寒冷机制从监狱层开始，追加抗寒药等更多炼金物品
-4.冰雪矿洞开始地牢将会下雪，同时启用寒冷机制
-5.监狱特殊Boss---宝箱之王
-6.每一个主线内的Boss都有一个提供一个专武供玩家使用
-7.商店抢劫机制暂时取消，等待后续回归
-8.DM-640，矿洞的新Boss
-9.天气系统的加入
-=========================================================
-当然，MLPD-P3还有很多东西，如果你想知道更多，不妨加入MLPD总群吧！
-好啦，关于MLPD-P3的消息就到这里了，敬请期待P3的全新旅程吧！
----By MLPD-DEV Team
+拟态的最终结果就是无限接近人类。
+原本作用拟形的钻石宝箱外壳化作盔甲，包裹住如王般的内在。
+衪是所有拟形怪的王——至少衪是这么认为的。
+王会战斗到最后一刻，直到粉身碎骨。
+寒冷的迷宫之中，我们能否死里逃生？
 </summary>
 </entry>
 <entry>
