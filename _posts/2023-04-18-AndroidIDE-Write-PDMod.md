@@ -3,6 +3,7 @@ layout: post
 title:  AndroidIDE-让手机写地牢Mod成为可能！-初步配置
 tags: [2023,Java,IDEA,Termux,Github,Gradle,SetUp]
 author: JDSALing
+stickie: true
 ---
 
 ---
