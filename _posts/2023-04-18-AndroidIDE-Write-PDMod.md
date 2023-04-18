@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  AndroidIDE-让手机写地牢Mod成为可能-Demo2
+title:  AndroidIDE-让手机写地牢Mod成为可能！-初步配置
 tags: [2023,Java,IDEA,Termux,Github,Gradle,SetUp]
 author: JDSALing
 ---
 
 ---
-撰写于2023年1月28日--建议阅读时间：40分钟
+撰写于2023年4月18日--建议阅读时间：40分钟
 
 ---
 
@@ -118,14 +118,13 @@ idesetup -m file:///storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent
 
 
 # 4.部署 Release 包
-待完善
 
-# 6.常见问题：AndroidIDE：
-待完善
-
-### 教程尚未完成-Demo
-
-
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/release1.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/release2.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/release3.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/release4.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/release5.jpg">
+<img src="http://39.105.229.249/ftp/ling/cdnpng/adepng/release6.jpg">
 
 
 
