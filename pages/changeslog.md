@@ -8,8 +8,6 @@ tags: [ChangesLogs,Blog,Jekyll]
 #### 2023-4-18——(博客维护日志-类型：更新)
 * 更新了新博客(类型:更新):
 
-<img src="http://39.105.229.249/ftp/ling/cdnpng/wr/red.png">
-
 #### [AndroidIDE-让手机写地牢Mod成为可能-初步配置](https://jdsalingzx.top/2023/04/18/AndroidIDE-Write-PDMod.html)
 
 #### 2023-3-17——(博客维护日志-类型：更新)
