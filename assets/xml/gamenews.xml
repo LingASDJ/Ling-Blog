@@ -1,42 +1,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-<link href="https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml" rel="self" type="application/atom+xml"/>
-<link href="https://shatteredpixel.com/" rel="alternate" type="text/html"/>
-<updated>2021-08-17T18:04:16+00:00</updated>
-<id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
-<entry>
-<title type="html">魔绫像素地牢-0.6.1.0-Beta5.3</title>
-<entitle type="html">MLPD-0.6.1.0-Beta5.3</entitle>
-<link href="https://www.baidu.com" rel="alternate" type="text/html" title="手机更新"/>
-<kinl href="https://www.sogou.com" rel="alternate" type="text/html" title="电脑更新"/>
-<published>2023-5-1T12:50:00+00:00</published>
-<updated>2023-5-1T12:50:00+00:00</updated>
-<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
-<author>
-<name>Ling</name>
-</author>
-<category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
-<summary type="html">
+    <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+    <link href="https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://shatteredpixel.com/" rel="alternate" type="text/html"/>
+    <updated>2021-08-17T18:04:16+00:00</updated>
+    <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
+    <entry>
+        <title type="html">魔绫像素地牢-0.6.1.0-Beta5.3</title>
+        <entitle type="html">MLPD-0.6.1.0-Beta5.3</entitle>
+        <link href="https://www.baidu.com" rel="alternate" type="text/html" title="手机更新"/>
+        <kinl href="https://www.sogou.com" rel="alternate" type="text/html" title="电脑更新"/>
+        <published>2023-5-1T12:50:00+00:00</published>
+        <updated>2023-5-1T12:50:00+00:00</updated>
+        <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+        <author>
+            <name>Ling</name>
+        </author>
+        <category term="SHPD_ICON_v464: ITEM: 63"/>
+        <category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
+        <summary type="html">
 新内容：
-1.全新Boss---宝藏迷宫--_宝箱之王_强势登场
-2.114514
-3.闪避90%
+1.全新Boss-宝藏迷宫--_宝箱之王_强势登场
+2.114514a
+
 Bug修复：
 4.全新BossRush2.0
 5.服务覅回复我发i
 6.队管风琴1ifgid
+
 其他改进：
 7.服务器高峰期发
 8.法规企稳复苏给
+
+彩蛋：
+amagin
 </summary>
-<summary type="enhtml">
+        <summary type="enhtml">
 updated
 ffafasfasf
 fsfuiugfuiwqof
 </summary>
-<ling>800852</ling>
-</entry>
-<!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
-<!-- 上面是卡片示范 顺带一提 Evan怕是十年脑溢血才敢写这么复杂 -->
+        <ling>800852</ling>
+    </entry>
+    <!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
+    <!-- 上面是卡片示范 顺带一提 Evan怕是十年脑溢血才敢写这么复杂 -->
 </feed>
