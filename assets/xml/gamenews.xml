@@ -7,8 +7,8 @@
     <entry>
         <title type="html">魔绫像素地牢-0.6.1.0-Beta5.3</title>
         <entitle type="html">MLPD-0.6.1.0-Beta5.3</entitle>
-        <link href="https://lingasdj.lanzouo.com/iloqv0ufzx8h" rel="alternate" type="text/html" title="手机更新"/>
-        <kinl href="https://lingasdj.lanzouo.com/iMeBO0ufzm4h" rel="alternate" type="text/html" title="电脑更新"/>
+        <link href="https://lingasdj.lanzouo.com/iNe050uggwje" rel="alternate" type="text/html" title="手机更新"/>
+        <kinl href="https://lingasdj.lanzouo.com/ilR8i0uggw8d" rel="alternate" type="text/html" title="电脑更新"/>
         <published>2023-5-1T12:50:00+00:00</published>
         <updated>2023-5-1T12:50:00+00:00</updated>
         <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
@@ -18,19 +18,22 @@
         <category term="SHPD_ICON_v464: ITEM: 63"/>
         <category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
         <summary type="html">
-魔绫像素地牢-Beta5.3-P3-新内容：
-1.拟态之王，强势登场
-2.灯火进行了小改动
-3.一些收藏品加入（珠宝）
-4.更多徽章（由于时间问题这里不说太多了，
-祝各位游玩愉快，迟到的五一劳动节快乐。)
+魔绫像素地牢-Beta5.32-P3：
+新内容：
+1.拟态之王，强势登场[首次探索条件：9层前击败三个宝箱怪]
+2.篝火系统0.2，详情查看游戏更新记录
+3.灯火前行V2.5--新增增益和减益buff各一个
+
+Bug修复：
+1.修复一些疏忽问题
+2.拟态王三阶段平衡
 </summary>
 <summary type="enhtml">
 updated
 ffafasfasf
 fsfuiugfuiwqof
 </summary>
-        <ling>800855</ling>
+        <ling>800856</ling>
     </entry>
     <!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
     <!-- 上面是卡片示范 顺带一提 Evan怕是十年脑溢血才敢写这么复杂 -->
