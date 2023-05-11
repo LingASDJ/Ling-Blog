@@ -78,54 +78,54 @@ idesetup -m file:///storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent
 ```
 
 3.当出现<b><font color="#00cc00">You are ready to go</font></b>说明你的SDK环境已经配置完成
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set4.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set4.jpg">
 
 # 2.开始部署：AndroidIDE-SHPD
 
 1.在群文件下载ADE优化版，并打开项目，然后再等待自行SYNC完成……
 如下图所示：
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set8.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set8.jpg">
 
 ## 特别提醒：
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set9.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set10.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set11.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set9.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set10.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set11.jpg">
 
 ---
 
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set12.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set13.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set14.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set15.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set12.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set13.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set14.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set15.jpg">
 
 1.5.出现该界面后表示项目正在开始初始化：
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set5.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set5.jpg">
 
 2.出现该界面后表示项目已经初始化完成：
 
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set6.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set6.jpg">
 
 3.可以尝试Run Build,理论上应该跑得起来。
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set7.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set7.jpg">
 
 4.如果出现如下图所示，则说明APK包编译成功：
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set16.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set16.jpg">
 
 5.DEBUG-APK的保存路径：  
 /storage/emulated/0/AndroidIDEProjects/shattered-pixel-dungeon/android/build/outputs/apk/debug/
 
 可以在这里找到你的DEBUG包，如下图所示：
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set17.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/Set17.jpg">
 
 
 # 4.部署 Release 包
 
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/release1.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/release2.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/release3.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/release4.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/release5.jpg">
-<img src="http://rust.coldmint.top/ftp/ling/cdnpng/adepng/release6.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release1.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release2.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release3.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release4.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release5.jpg">
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release6.jpg">
 
 
 
