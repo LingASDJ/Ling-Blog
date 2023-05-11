@@ -19,9 +19,9 @@ author: jdsaling
 ## 方案步骤：
 * 1.确保你拥有一个JRE运行库（32位或64位均可)
 * 2.打开EXE4J,确保能看见下面的界面：
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j1.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j1.png">
 点击<font color="##689f0a">Change License</font>或者 <font color="##689f0a">Enter License</font>进行用户本地注册
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j2.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j2.png">
 
 ### 密钥大全，任选一个复制(均可使用)/适用于EXE4J-V8.0：
 
@@ -37,30 +37,30 @@ A-XVK249554F-pllh351kcke50
 
 * 3.注册成功后，点击下一步，开始进行EXE4J的转换：  
 （若无特殊说明，均按照图示进行）
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j3.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j4.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j5.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j3.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j4.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j5.png">
 
 #### 特别说明：这里如果是64位架构的软件请记得勾选此类：
 
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j6.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j7.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j8.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j9.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j10.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j11.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j6.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j7.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j8.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j9.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j10.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j11.png">
 
 接下来的全部下一步，等待EXE生成成功。
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j12.png">
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j13.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j12.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j13.png">
 
 ### 至此，JAR转EXE就全部完成，然后我们应该如何NoJRE/JDK呢？
 
 # No JRE/JDK 的方法：
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j14.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j14.png">
 1.请确保你的文件是新建的一个文件夹，然后将你选择的JDK/JRE放入进去。
 
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j15.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j15.png">
 2.并在第6区域的<font style="font-weight:700">Search Sequence</font>添加对应的JDK/JRE运行文件夹。<br>
 <span>(<font color="##ff0000">警告：首次请先删除Search Windows registry外的所有东西，再添加JDK/JRE</font>.)</span>
 
@@ -70,30 +70,30 @@ A-XVK249554F-pllh351kcke50
 ## P.S.:请根据个人喜好进行
 
 ## A.日志输出：
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j16.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j16.png">
 
 ## B.自定义应用信息：
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j17.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j17.png">
 ## C.32/64位部署
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j18.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j18.png">
 
 4.Inno Setup 最终部署
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j19.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j19.png">
 
 ### 先决条件：确定你已经类似于上图那样完成结构
 
 验证是否集成JRE/JDK库：
 修改jdk的文件名，并尝试启动，出现错误说明正常：
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/Exe4j20.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/Exe4j20.png">
 
 Tips:如果你电脑本身有Java环境变量，那么这里改了文件夹名字后还是能启动。因为它会寻找你的环境变量！
 
 5.Inno SetUp 配置：  
 直接上GIF:
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/IS.gif">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/IS.gif">
 
 最终编译出来是一个exe包，安装后就可以用了！教程结束。
-<img src="http://rust.coldmint.topftp/ling/cdnpng/exe4j/end.gif">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/exe4j/end.gif">
 
 ### 参考资料
 ### [CSDN-No JVM ERROR](https://blog.csdn.net/qq_28114615/article/details/94402156)

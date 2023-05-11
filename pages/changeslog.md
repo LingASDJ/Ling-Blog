@@ -13,7 +13,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 #### 2023-3-17——(博客维护日志-类型：更新)
 * 更新了新博客(类型:更新):
 
-<img src="http://rust.coldmint.topftp/ling/cdnpng/wr/red.png">
+<img src="http://rust.coldmint.top/ftp/ling/cdnpng/wr/red.png">
 
 #### [危机合约-起源行动](https://jdsalingzx.top/2023/03/17/Warning-End.html)
 
