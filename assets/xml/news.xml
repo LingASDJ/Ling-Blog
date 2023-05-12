@@ -5,6 +5,31 @@
 <updated>2021-08-17T18:04:16+00:00</updated>
 <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
 <entry>
+<title type="html">鸿蒙系统玩家请注意！</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-6-29T03:00:00+00:00</published>
+<updated>3055-6-29T03:00:00+00:00</updated>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v533: interfaces/icons.png, 96, 48, 14, 14"/>
+<summary type="html">
+-----------------------------------------------
+经后台报告，魔绫在鸿蒙系统上小窗运行可能导致崩溃，
+原因是因为：鸿蒙系统的小窗还需要套一层华为独立的XML,
+但魔绫并没有该XML兼容，因此崩溃。
+请各位鸿蒙系统玩家不要在小窗运行，
+如因此问题导致存档丢失等问题，
+本Ling概不负责。该问题可能会在后续修复，
+但我仍然想吐槽鸿蒙系统的画蛇添足。
+小声逼逼：后台报告显示的是安卓，并不是鸿蒙OS
+-----------------------------------------------
+P.S.:其他手机系统不受影响，请放心小窗游玩
+</summary>
+</entry>
+<entry>
 <title type="html">魔绫像素地牢-灯火与狩猎之章</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
 <published>3055-6-23T03:00:00+00:00</published>
@@ -25,7 +50,6 @@ V0.6.1.0-BETA5即将到来，下方为更新说明。敬请期待！
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
 <published>3055-6-23T03:00:00+00:00</published>
 <updated>3055-6-23T03:00:00+00:00</updated>
-<ling>700999</ling>
 <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
 <author>
 <name>JDSA Ling</name>
