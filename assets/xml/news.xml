@@ -5,6 +5,31 @@
 <updated>2021-08-17T18:04:16+00:00</updated>
 <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
 <entry>
+<title type="html">魔绫像素地牢-丛林狩猎之章</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-7-1T03:00:00+00:00</published>
+<updated>3055-7-1T03:00:00+00:00</updated>
+<ling>700999</ling>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 548"/>
+<summary type="html">
+克里弗斯之果的诡计终究没能得逞，
+0层神秘NPC入驻究竟是为何，
+丛林深处传来骇人听闻的事件，
+冰雪矿洞深处温度正在迅速升高，
+雪凛峡谷的她似乎感受到了什么，
+峡谷的火光正在焚烧每一个商人的领地
+灯火正在摇摆不定，地牢的暴风雪更加肆虐，
+一切究竟发生了什么？
+敬请期待-魔绫像素地牢：
+V0.6.2.0-丛林狩猎-雪凛危机之章
+</summary>
+</entry>
+<entry>
 <title type="html">魔绫像素地牢-问卷调查</title>
 <link href="https://docs.qq.com/form/page/DVnVMSFh5UUJ3d0JJ" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
 <published>3055-6-30T03:00:00+00:00</published>
@@ -43,97 +68,6 @@
 小声逼逼：后台报告显示的是安卓，并不是鸿蒙OS
 -----------------------------------------------
 P.S.:其他手机系统不受影响，请放心小窗游玩
-</summary>
-</entry>
-<entry>
-<title type="html">魔绫像素地牢-灯火与狩猎之章</title>
-<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-6-23T03:00:00+00:00</published>
-<updated>3055-6-23T03:00:00+00:00</updated>
-<ling>700999</ling>
-<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 548"/>
-<summary type="html">
-V0.6.1.0-BETA5即将到来，下方为更新说明。敬请期待！
-</summary>
-</entry>
-<entry>
-<title type="html">即将到来：灯火前行V3</title>
-<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-6-23T03:00:00+00:00</published>
-<updated>3055-6-23T03:00:00+00:00</updated>
-<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 549"/>
-<summary type="html">
-全新灯火即将到来，全面升级灯火系统。
-更多的事件将会被加入，并且还有全新的敌人和突发事件。
-全新背包的加入，带来更多不一样的体验。
-骰子判定全面升级，灯火前行的路上并不是一帆风顺。
-</summary>
-</entry>
-<entry>
-<title type="html">即将到来：篝火/寒冰机制</title>
-<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-6-22T03:00:00+00:00</published>
-<updated>3055-6-22T03:00:00+00:00</updated>
-<ling>700999</ling>
-<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 550"/>
-<summary type="html">
-水晶之心的镇压已经出现了差错，整个地牢都被影响了
-夺回水晶之心，让这一切迎来终结。
-可封印的残缺力量啊，你还能撑多久呢？
-</summary>
-</entry>
-<entry>
-<title type="html">即将到来：每日狩猎</title>
-<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-6-22T03:00:00+00:00</published>
-<updated>3055-6-22T03:00:00+00:00</updated>
-<ling>700999</ling>
-<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: Npcs/DKGirl.png, 0, 0, 16, 16"/>
-<summary type="html">
-衪曾经救了这个世界，但衪同样也被世界抛弃，衪不会善罢甘休的。
-这里的时间，似乎被锁在了一个循环中……
-总而言之，我会继续在这里入驻的，直到风暴来临。
-我会每天给你安排狩猎任务，完成这些任务你可以得到一笔不错的丰厚奖励。
-</summary>
-</entry>
-<entry>
-<title type="html">即将到来：宝藏迷宫--隐藏10层</title>
-<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-6-22T03:00:00+00:00</published>
-<updated>3055-6-22T03:00:00+00:00</updated>
-<ling>700999</ling>
-<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_ICON_v464: ITEM: 63"/>
-<category term="SHPD_ICON_v533: sprites/boss/DimandKing.png, 0, 0, 24, 16"/>
-<summary type="html">
-拟态的最终结果就是无限接近人类。
-原本作用拟形的钻石宝箱外壳化作盔甲，包裹住如王般的内在。
-衪是所有拟形怪的王——至少衪是这么认为的。
-王会战斗到最后一刻，直到粉身碎骨。
-寒冷的迷宫之中，我们能否死里逃生？
 </summary>
 </entry>
 <entry>
