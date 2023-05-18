@@ -22,7 +22,7 @@ stickie: true
 # 2.致谢人员：
 一路上，Ling遇到了不少知心朋友，他们或多或少都帮助过我：  
 在地牢方面：REN & Red-Dragon & SmuJB  
-在技术方面: Mason & LiuLiu & ColdMint & DR & Tobby & 冰点 & CHE周
+在技术方面: Mason & LiuLiu & ColdMint & DR & Tobby & 冰点 & CHE周  
 在处事方面：LiuLiu & Catand & Red-Dragon  
 在服务器方面：问心，WOLF，DR  
 在其他方面：Lee,二月,沐沐,泰勒,罗贝里,那些回忆……
