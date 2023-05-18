@@ -25,7 +25,7 @@ stickie: true
 在技术方面: Mason & LiuLiu & ColdMint & DR & Tobby & 冰点 & CHE周
 在处事方面：LiuLiu & Catand & Red-Dragon  
 在服务器方面：问心，WOLF，DR  
-在其他方面：Plee,二月,沐沐,泰勒,罗贝里,那些回忆……
+在其他方面：Lee,二月,沐沐,泰勒,罗贝里,那些回忆……
 
 这些贵人，都是我路途上的引路人，感谢他们对我的帮助，  
 没有他们，就没有现在的绫，也没有这个博客，更没有那些项目
