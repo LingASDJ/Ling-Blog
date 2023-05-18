@@ -8,7 +8,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 #### 2023-5-18——(博客维护日志-类型：更新)
 * 更新了新博客(类型:更新):
 
-#### [绫中之书-一周年生日快乐！](https://jdsalingzx.top/2023/05/18/2023-05-18-LingBook-1YearsOld.html)
+#### [绫中之书-一周年生日快乐！](https://jdsalingzx.top/2023/05/18/LingBook-1YearsOld.html)
 
 #### 2023-4-18——(博客维护日志-类型：更新)
 * 更新了新博客(类型:更新):
