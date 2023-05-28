@@ -5,10 +5,10 @@
     <updated>2021-08-17T18:04:16+00:00</updated>
     <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
     <entry>
-        <title type="html">魔绫像素地牢-0.6.2.0-Beta2</title>
-        <entitle type="html">MLPD-0.6.2.0-Beta2</entitle>
-        <link href="https://lingasdj.lanzoup.com/ifi7E0xazlfa" rel="alternate" type="text/html" title="手机版本更新地址"/>
-        <kinl href="https://lingasdj.lanzoup.com/i0vnx0xazw6h" rel="alternate" type="text/html" title="电脑版本更新地址"/>
+        <title type="html">魔绫像素地牢-0.6.2.0-Beta3</title>
+        <entitle type="html">MLPD-0.6.2.0-Beta3</entitle>
+        <link href="https://lingasdj.lanzoup.com/iV4kY0xjenuf" rel="alternate" type="text/html" title="手机版本更新地址"/>
+        <kinl href="https://lingasdj.lanzoup.com/iVTMV0xjf05i" rel="alternate" type="text/html" title="电脑版本更新地址"/>
         <published>2023-5-20T12:50:00+00:00</published>
         <updated>2023-5-20T12:50:00+00:00</updated>
         <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
@@ -19,13 +19,12 @@
         <category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
         <summary type="html">
 更新历史尽在游戏内部更新记录日志。
--常见问题：
-如果快捷栏显示错误，请到游戏设置调整显示比列
+魔绫像素地牢制作组祝你游玩愉快！
 </summary>
 <summary type="enhtml">
 Update history in the g、Game's Internal Update Log.
 </summary>
-        <ling>900870</ling>
+        <ling>900871</ling>
     </entry>
     <!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
     <!-- 上面是卡片示范 顺带一提 Evan怕是十年脑溢血才敢写这么复杂 -->
