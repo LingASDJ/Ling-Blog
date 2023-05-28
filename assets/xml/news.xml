@@ -5,31 +5,78 @@
 <updated>2021-08-17T18:04:16+00:00</updated>
 <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
 <entry>
-<title type="html">V0.6.2.0-即将到来</title>
+<title type="html">魔绫像素地牢-常见问题说明</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-7-2T03:00:00+00:00</published>
-<updated>3055-7-2T03:00:00+00:00</updated>
+<published>3055-7-3T03:00:00+00:00</published>
+<updated>3055-7-3T03:00:00+00:00</updated>
 <ling>700999</ling>
 <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
 <author>
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v533: sprites/boss/FireMagicGirl.png, 0, 0, 13, 16"/>
+<category term="SHPD_ICON_v464: ITEM: 260"/>
 <summary type="html">
-克里弗斯之果的诡计终究没能得逞，
-0层神秘NPC入驻究竟是为何，
-丛林深处传来骇人听闻的事件，
-冰雪矿洞深处温度正在迅速升高，
-雪凛峡谷的她似乎感受到了什么，
-峡谷的火光正在焚烧每一个商人的领地
-灯火正在摇摆不定，地牢的暴风雪更加肆虐，
-一切究竟发生了什么？
-敬请期待-魔绫像素地牢：
-V0.6.2.0-丛林狩猎-雪凛危机之章
+魔绫像素地牢的一些常见问题，请各位仔细查看哦：
+Q:我的快捷栏很少，怎么办？
+A:请先到设置调整一次显示比列，然后再去额外设置调整快捷栏
+
+Q:游戏突然闪退
+A:这是游戏代码出Bug了，不过不用担心，你的错误日志会同步到后台供开发者修复
+
+Q:如何开启娱乐模式？
+A:进入游戏后选择左侧的第一个图标即可。
 </summary>
 </entry>
 <entry>
+<title type="html">DLC-沧溟与湛蓝遗迹</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-7-3T03:00:00+00:00</published>
+<updated>3055-7-3T03:00:00+00:00</updated>
+<ling>700999</ling>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v533: sprites/boss/SeaVastGirl.png, 0, 0, 24, 24"/>
+<summary type="html">
+（Vast - Azure Blue Relics）
+自冒险家们调查地牢以来，我们经历了诸多事件。
+但世界之广袤，地牢只是其中一个很小的区域。
+除开地牢自身的重重谜团，
+世界上仍然有很多未解之事等待我们去揭晓。
+我们接到了来自霜落帝国的委托，
+我们将前往远处的大海深处调查有关于湛蓝遗迹的事情。
+相传这里是某位魔女的沉睡之地。
+废弃的遗址已没入深海，原有的活物已被深海居民吞噬殆尽。
+这里暗涛汹涌，危机四伏。
+魔绫像素地牢-DLC-沧溟与湛蓝遗迹，
+将在2023年后续更新，敬请期待。
+</summary>
+</entry>
+<entry>
+<title type="html">魔绫像素地牢-后续计划</title>
+<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
+<published>3055-7-3T03:00:00+00:00</published>
+<updated>3055-7-3T03:00:00+00:00</updated>
+<ling>700999</ling>
+<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
+<author>
+<name>JDSA Ling</name>
+</author>
+<category term="SHPD_INGAME"/>
+<category term="SHPD_ICON_v464: ITEM: 262"/>
+<summary type="html">
+魔绫像素地牢现在已经走过了两年时光了，
+接下来，上半段开发即将完成。
+但开发者本人也渐渐为生活所奔波，
+接下来魔绫将会进入缓慢开发阶段，感谢各位的支持。
+</summary>
+</entry>
+</feed>
+
+<!-- <entry>
 <title type="html">魔绫像素地牢-问卷调查</title>
 <link href="https://docs.qq.com/form/page/DVnVMSFh5UUJ3d0JJ" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
 <published>3055-6-30T03:00:00+00:00</published>
@@ -57,7 +104,7 @@ V0.6.2.0-丛林狩猎-雪凛危机之章
 <category term="SHPD_INGAME"/>
 <category term="SHPD_ICON_v533: interfaces/icons.png, 96, 48, 14, 14"/>
 <summary type="html">
------------------------------------------------
+
 经后台报告，魔绫在鸿蒙系统上小窗运行可能导致崩溃，
 原因是因为：鸿蒙系统的小窗还需要套一层华为独立的XML,
 但魔绫并没有该XML兼容，因此崩溃。
@@ -66,7 +113,7 @@ V0.6.2.0-丛林狩猎-雪凛危机之章
 本Ling概不负责。该问题可能会在后续修复，
 但我仍然想吐槽鸿蒙系统的画蛇添足。
 小声逼逼：后台报告显示的是安卓，并不是鸿蒙OS
------------------------------------------------
+
 P.S.:其他手机系统不受影响，请放心小窗游玩
 </summary>
 </entry>
@@ -130,12 +177,12 @@ P.S.:其他手机系统不受影响，请放心小窗游玩
 </author>
 <category term="SHPD_INGAME"/>
 <category term="SHPD_ICON_v464: ITEM: 548"/>
-<summary type="html">魔绫像素地牢--Beta21最终测试:
+<summary type="html">魔绫像素地牢-Beta21最终测试:
 上半段即将完结，敬请期待！！！
 </summary>
 </entry>
 <entry>
-<title type="html">魔绫像素地牢--遗落古堡</title>
+<title type="html">魔绫像素地牢-遗落古堡</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
 <published>3055-6-13T03:00:00+00:00</published>
 <updated>3055-6-13T03:00:00+00:00</updated>
@@ -145,7 +192,7 @@ P.S.:其他手机系统不受影响，请放心小窗游玩
 </author>
 <category term="SHPD_INGAME"/>
 <category term="SHPD_ICON_v464: ITEM: 520"/>
-<summary type="html">魔绫像素地牢--遗落古堡:
+<summary type="html">魔绫像素地牢-遗落古堡:
 ???：经过了这么多次的探索，相信你仍然在追寻最终的目标。
 在那之前，你仍然需要准备很多东西……
 </summary>
@@ -320,13 +367,13 @@ P.S.:其他手机系统不受影响，请放心小窗游玩
 <summary type="html">血量500血，主要有两大阶段。
 200前一个阶段，200以下二阶段。
 技能：
-技能一--健步如飞（在水里移动速度大幅度提升，伤害大幅度提升)
-技能二--矮人军队（持续召唤矮人军队）
-技能三--魔力爆发（蓄力后冲击敌人，敌人获得易伤）
-技能四--荣耀之光（召唤全屏大激光 造成高额伤害）
-技能五--审判降临（矮人大师立刻召唤激光使玩家陷入失明）
-技能六--英勇无畏（军队立刻自爆造成大规模伤害）
-技能七--矮人意志（血量低于200，速度和伤害大幅度提升，并出现额外特殊召唤敌人，
+技能一-健步如飞（在水里移动速度大幅度提升，伤害大幅度提升)
+技能二-矮人军队（持续召唤矮人军队）
+技能三-魔力爆发（蓄力后冲击敌人，敌人获得易伤）
+技能四-荣耀之光（召唤全屏大激光 造成高额伤害）
+技能五-审判降临（矮人大师立刻召唤激光使玩家陷入失明）
+技能六-英勇无畏（军队立刻自爆造成大规模伤害）
+技能七-矮人意志（血量低于200，速度和伤害大幅度提升，并出现额外特殊召唤敌人，
 同时自身进入永久无敌状态（需要击败特别怪物才能扣大师的血））
 </summary>
 </entry>
@@ -578,9 +625,8 @@ yog说出了一个惊天的秘密，肇事者竟然是■■■■■■■■!
 编码方面感谢SmuJB,TrashBox等的大力帮助，
 更要感谢奈亚子，冷群怪，Danicel，碳酸等大力帮助。
 感谢你们，同时祝所有人新年快乐，2022年，我们一起继续努力。
-                          ---Dev:JDSA Ling
+                          -Dev:JDSA Ling
 </summary>
-</entry>
+</entry> -->
 <!-- title type="html">卡片标题 不会显示在游戏里面</title><subtitle>卡片副标题 不会显示在游戏里面</subtitle><author><name>JDSA Ling</name></author><entry><title type="html">游戏内卡片标题</title><link href="要跳转的源网址 是查看更多的按钮链接跳转" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!" /><published>2021-08-17T00:00:00+00:00</published><updated>2021-08-17T00:00:00+00:00</updated><id>https://shatteredpixel.com/blog/shatteredpd-v100-and-ios-release 这里是id 非网页链接</id><author><name>输入作者名字</name></author><category term="SHPD_INGAME" /><category term="SHPD_ICON_v464: ITEM: 63" /><category term="SHPD_ICON_v533: ITEM: 61" /><summary type="html">游戏内卡片描述 魔绫像素地牢已经迁移到SPDV0.9.2b</summary></entry -->
 <!-- 上面是卡片示范 顺带一提 Evan怕是十年脑溢血才敢写这么复杂 -->
-</feed>
