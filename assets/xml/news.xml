@@ -39,7 +39,7 @@ A:进入游戏后选择左侧的第一个图标即可。
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v533: sprites/boss/SeaVastGirl.png, 0, 0, 16, 16"/>
+<category term="SHPD_ICON_v533: sprites/boss/SeaVastGirl.png, 0, 0, 24, 24"/>
 <summary type="html">
 （Vast - Azure Blue Relics）
 自冒险家们调查地牢以来，我们经历了诸多事件。
