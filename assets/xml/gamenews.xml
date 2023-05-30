@@ -7,7 +7,7 @@
     <entry>
         <title type="html">魔绫像素地牢-0.6.2.0-Beta4.2</title>
         <entitle type="html">MLPD-0.6.2.0-Beta4.2</entitle>
-        <link href="https://lingasdj.lanzoup.com/iedeU0xr156d" rel="alternate" type="text/html" title="手机版本更新地址"/>
+        <link href="https://lingasdj.lanzoup.com/iprtp0xr581a" rel="alternate" type="text/html" title="手机版本更新地址"/>
         <kinl href="https://lingasdj.lanzoup.com/iKZJ60xr0taf" rel="alternate" type="text/html" title="电脑版本更新地址"/>
         <published>2023-5-20T12:50:00+00:00</published>
         <updated>2023-5-20T12:50:00+00:00</updated>
@@ -18,6 +18,10 @@
         <category term="SHPD_ICON_v464: ITEM: 63"/>
         <category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
         <summary type="html">
+临时补丁-2023-5-30 21：10：
+作者忘了加版本号，导致最新版仍然有检查新版本的问题，
+如果你遇到该问题，请再点击下方更新版本得到解决。
+
 更新时间：2023-5-30 20:45
 V0.6.2-Beta4.2-更新说明：
 1.修复快捷栏的初始配置问题
