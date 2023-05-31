@@ -5,8 +5,8 @@
     <updated>2021-08-17T18:04:16+00:00</updated>
     <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
     <entry>
-        <title type="html">魔绫像素地牢-0.6.2.0-Beta4.2</title>
-        <entitle type="html">MLPD-0.6.2.0-Beta4.2</entitle>
+        <title type="html">魔绫像素地牢-0.6.2.0</title>
+        <entitle type="html">MLPD-0.6.2.0</entitle>
         <link href="https://lingasdj.lanzoup.com/iprtp0xr581a" rel="alternate" type="text/html" title="手机版本更新地址"/>
         <kinl href="https://lingasdj.lanzoup.com/iKZJ60xr0taf" rel="alternate" type="text/html" title="电脑版本更新地址"/>
         <published>2023-5-20T12:50:00+00:00</published>
@@ -18,8 +18,8 @@
         <category term="SHPD_ICON_v464: ITEM: 63"/>
         <category term="SHPD_ICON_v533: sprites/spinner.png, 144, 0, 16, 16"/>
         <summary type="html">
-当前最新补丁版本为-V0.6.2.0-Beta4.5:
-1.修复了嗜血荆棘等级可能不同步的问题
+当前最新补丁版本为-V0.6.2.0-Beta4.8 2023-5-31 17:24:
+1.修复了新神器暗金护符可能崩溃的问题，并且加入了少量交互效果
 该补丁包为可选更新，如果你需要更新，请到群文件查看补丁版本。
 
 更多改动请更新版本后查看更新日志。
