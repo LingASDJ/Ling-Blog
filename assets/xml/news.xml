@@ -5,66 +5,48 @@
 <updated>2021-08-17T18:04:16+00:00</updated>
 <id>https://shatteredpixel.com/feed_by_tag/SHPD_INGAME.xml</id>
 <entry>
-<title type="html">重要通知-关于盗版魔绫</title>
+<title type="html">雪凛峡谷封印-商店系统改动预告</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-7-7T03:00:00+00:00</published>
-<updated>3055-7-7T03:00:00+00:00</updated>
+<published>3055-7-8T03:00:00+00:00</published>
+<updated>3055-7-8T03:00:00+00:00</updated>
 <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
 <author>
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v533: sprites/boss/DimandKing.png, 121, 0, 20, 24"/>
+<category term="SHPD_ICON_v533: sprites/boss/FireCrstal.png, 0, 0, 16, 16"/>
 <summary type="html">
-请各位注意，本版本更新渠道仅在：
-像素地牢贴吧官群或者Ling的蓝奏云或者是魔绫总群，
-如果你是从Γ爱吾游戏盒子Γ平台等破解游戏平台获取的版本，
-你可能会遭受这些逆向破解导致的崩溃，对于这些问题，Ling概不负责。
-如果你现在正在使用破解版，你可以在下次游戏更新在游戏内部升级为正版魔绫。
-或者你也可以加官方总群，游戏里面有的是渠道加入。
-感谢各位理解与支持，请各位积极支持正版，抵制盗版魔绫。
+地牢商人：在以前，如果有小偷偷我东西，他肯定会被送到峡谷接受她的审判。
+商人领主：不幸的是，她的力量正在急剧减少，一切都在向最坏的方向发展。
+地牢商人：领主大人，为什么明明我们都在轮回，而她却越来越虚弱呢？
+商人领主：我不知道，我也不敢知道。我可不希望她成为下一个冬铃……
+地牢商人：可她的姐姐是自愿……，好吧，我不应该多说这些话
+商人领主：为保全大局接下来我将|关闭雪凛峡谷|的空间，这样她应该还能活100年……
+地牢商人：好的，领主大人。正好我也想试试新的|防抢劫系统|了……
+商人领主：但愿如此吧，也不知道什么时候还能看见莲娜的笑容了……
+地牢商人：就没有救莲娜姐姐的办法了吗？
+商人领主：|……|
+地牢商人：|……|
 </summary>
 </entry>
 <entry>
-<title type="html">鸿蒙系统玩家请注意！</title>
+<title type="html">熔岩洞穴-魔龙栖息</title>
 <link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-7-5T03:00:00+00:00</published>
-<updated>3055-7-5T03:00:00+00:00</updated>
+<published>3055-7-8T03:00:00+00:00</published>
+<updated>3055-7-8T03:00:00+00:00</updated>
 <id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
 <author>
 <name>JDSA Ling</name>
 </author>
 <category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v533: interfaces/icons.png, 96, 48, 14, 14"/>
+<category term="SHPD_ICON_v464: ITEM: 265"/>
 <summary type="html">
------------------------------------------------
-经后台报告，魔绫在鸿蒙系统上小窗运行可能导致崩溃，
-原因是因为：鸿蒙系统的小窗还需要套一层华为独立的XML,
-但魔绫并没有该XML兼容，因此崩溃。
-请各位鸿蒙系统玩家不要在小窗运行，
-如因此问题导致存档丢失等问题，
-本Ling概不负责。该问题可能会在后续修复，
-但我仍然想吐槽鸿蒙系统的画蛇添足。
-小声逼逼：后台报告显示的是安卓，并不是鸿蒙OS
------------------------------------------------
-P.S.:其他手机系统不受影响，请放心小窗游玩
-</summary>
-</entry>
-<entry>
-<title type="html">六一节日快乐</title>
-<link href="http://gg.gg/yc9vr" rel="alternate" type="text/html" title="ShatteredPD v1.0.0 and iOS release!"/>
-<published>3055-7-4T03:00:00+00:00</published>
-<updated>3055-7-4T03:00:00+00:00</updated>
-<ling>700999</ling>
-<id>https://shatteredpixel.com/blog/coming-soon-to-shattered-seeded-runs</id>
-<author>
-<name>JDSA Ling</name>
-</author>
-<category term="SHPD_INGAME"/>
-<category term="SHPD_ICON_v464: ITEM: 260"/>
-<summary type="html">
-魔绫像素地牢祝各位小朋友，大朋友们节日快乐。
-今日魔绫已经全面公开测试，祝各位玩得高兴。
+每一次的调查都是为了寻找更多的真相，
+每一次的寻找都是为了找寻更多的线索。
+丛林的纯晶元素从来没有想加害于我们，
+那么我们也应该做出承诺并寻找真实的它们，
+魔绫像素地牢-丛林熔岩洞穴-丛林B面，
+即将到来，敬请期待！！！
 </summary>
 </entry>
 <entry>
