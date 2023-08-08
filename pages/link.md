@@ -29,7 +29,7 @@ Tmaize的Blog--[**[Tmaize-Blog]**](https://blog.tmaize.net/)
 
 ---
 ### Cold Mint
-Cold Mint--[**[铁锈助手2.0]**](https://coldmint.top/)
+Cold Mint--[**[ColdMint-Blog]**](https://coldmint.top/)
 
 ---
 ### Tianscar
