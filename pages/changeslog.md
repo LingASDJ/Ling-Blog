@@ -8,7 +8,7 @@ tags: [ChangesLogs,Blog,Jekyll]
 #### 2023-9-15——(博客维护日志-类型：更新)
 * 更新了新博客(类型:更新):
 
-#### [辉梦Wiki后端数据爆炸,享年3天.Wiki的道路还有很长.....](https://jdsalingzx.top/2023/09/18/2023-09-15-MediaWikiBomb,Road-is-To-Long.html)
+#### [辉梦Wiki后端数据爆炸,享年3天.Wiki的道路还有很长.....](https://jdsalingzx.top/2023/09/15/MediaWikiBomb,Road-is-To-Long.html)
 
 #### 2023-5-18——(博客维护日志-类型：更新)
 * 更新了新博客(类型:更新):
