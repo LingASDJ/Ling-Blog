@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  辉梦Wiki后端数据爆炸,享年3天.Wiki的道路还有很长.....
+title:  辉梦Wiki后端数据爆炸,Wiki的道路还有很长.....
 tags: [九月随笔,搭建Wiki,辉梦工作室]
 author: JDSALing
 stickie: true
