@@ -43,11 +43,11 @@ buildtime: "1652774400"
 
 PJAX: false #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
 
-paginate: 6 #同时显示的最大文章数，超过自动分页
+paginate: 3 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://jdsalingzx.top/assets/img/header/moonxing.jpeg
-theme_color: 3ff6ff7d
+theme_color: f27937ba
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

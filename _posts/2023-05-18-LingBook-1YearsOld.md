@@ -3,7 +3,6 @@ layout: post
 title:  绫中之书-一周年生日快乐！
 tags: [2023,2022]
 author: JDSALing
-stickie: true
 ---
 
 ---
