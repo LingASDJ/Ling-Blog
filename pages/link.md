@@ -12,7 +12,7 @@ permalink: /links.html
 
 <div class="link-chip-div">
 <a href="http://www.pd.qinyueqwq.top/" target="_blank" class="link-chip ripple">
- <img alt="魔绫官网" src="http://www.pd.qinyueqwq.top/wp-content/uploads/2023/07/cropped-QQ%E5%9B%BE%E7%89%8720230725013521-192x192.jpg" class="link-chip-icon">
+ <img alt="魔绫官网" src="https://jdsalingzx.top/assets/img/header/mlpd.png" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin1.png">
  <span title="魔绫官网" class="link-chip-title">魔绫地牢官网</span>
  <p class="link-chip-dc">MLPD Game Studio</p>
@@ -23,7 +23,7 @@ permalink: /links.html
 <a href="#" target="_blank" class="link-chip ripple">
  <img alt="Prohonor Tune" src="https://wiki.qinyueqwq.top/resources/assets/LogoIco.png" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin3.png">
- <span title="ColdMint Blog" class="link-chip-title">辉梦Wiki(开发中)</span>
+ <span title="ColdMint Blog" class="link-chip-title">辉梦Wiki(敬请期待)</span>
  <p class="link-chip-dc">Splendiddream</p>
  </a>
 </div>
@@ -32,7 +32,7 @@ permalink: /links.html
 <a href="https://atlinker.cn/" target="_blank" class="link-chip ripple">
  <img alt="Link's Blog" src="https://atlinker.cn/avatar/avatar.png" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin1.png">
- <span title="Link's Blog" class="link-chip-title">Link(HY作者)</span>
+ <span title="Link's Blog" class="link-chip-title">Link</span>
  <p class="link-chip-dc">Link's Blog</p>
  </a>
 </div>
