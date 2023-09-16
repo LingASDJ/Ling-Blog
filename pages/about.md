@@ -40,12 +40,14 @@ public UsedSoft extends Pro{
 
 JDSALing非常愿意和大家交朋友，当然这是一个漫长的过程！  
 我的Github地址是：[JDSALing-Github](https://github.com/LingASDJ)  
-我主要在**像素地牢方面**和**铁锈战争**方面开发Mod!  
-> 我在像素地牢的Mod为：[魔绫的像素地牢](https://github.com/AnsdoShip/magic-ling-pixel-dungeon)  
-> 我在铁锈战争的Mod为：[星河尘埃无尽征途](https://jq.qq.com/?_wv=1027&k=uKbPmZMn)  
-> 我还在为了一些无多语言的地牢而积极部署多语言:  
-Top-1 自然之神的像素地牢 汉化已完成  [仓库地址](https://github.com/LingASDJ/DeisticPixelDungeon)  
-Top-2 困难发芽的像素地牢 汉化正进行 [仓库地址](https://github.com/LingASDJ/harder-sprouted-pd)
+我主要在**像素地牢方面**和**铁锈战争**方面开发Mod!   
+近期，正在研究Tmodloader进行天狱之境的开发！
+
+> 我在像素地牢的Mod为：[魔绫的像素地牢](https://github.com/LingASDJ/Magic-Ling-Pixel-Dungeon)  
+
+> 我在铁锈战争的Mod为：[星河尘埃无尽征途](https://github.com/LingASDJ/StarRiver-EndlessJourney-RW-MODS)  
+
+> 我在泰拉瑞亚的Mod为：[天狱之境](https://github.com/LingASDJ/SkyHell)
 
 ---
 

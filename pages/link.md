@@ -7,7 +7,26 @@ permalink: /links.html
 
 ---
 
-[返回主页]({{ site.url }})
+[返回主页](https://jdsalingzx.top/))
+
+
+<div class="link-chip-div">
+<a href="http://www.pd.qinyueqwq.top/" target="_blank" class="link-chip ripple">
+ <img alt="魔绫官网" src="http://www.pd.qinyueqwq.top/wp-content/uploads/2023/07/cropped-QQ%E5%9B%BE%E7%89%8720230725013521-192x192.jpg" class="link-chip-icon">
+ <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin1.png">
+ <span title="魔绫官网" class="link-chip-title">魔绫地牢官网</span>
+ <p class="link-chip-dc">MLPD Game Studio</p>
+ </a>
+</div>
+
+<div class="link-chip-div">
+<a href="#" target="_blank" class="link-chip ripple">
+ <img alt="Prohonor Tune" src="https://wiki.qinyueqwq.top/resources/assets/LogoIco.png" class="link-chip-icon">
+ <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin3.png">
+ <span title="ColdMint Blog" class="link-chip-title">辉梦Wiki(开发中)</span>
+ <p class="link-chip-dc">Splendiddream</p>
+ </a>
+</div>
 
 <div class="link-chip-div">
 <a href="https://atlinker.cn/" target="_blank" class="link-chip ripple">
@@ -100,7 +119,7 @@ permalink: /links.html
  </a>
 </div>
 
-## 如果你也想添加友情链接，请在下方留言给我 :)
+* 如果你也想添加友情链接，请在下方留言给我 :)
 
 <hr/>
 
