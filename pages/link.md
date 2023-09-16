@@ -11,6 +11,13 @@ permalink: /links.html
 AnsdoShip--[**[AnsdoShip]**](https://ansdoship.github.io/)
 
 ---
+
+### 秦月的外交部
+诺瑟斯外交部--[**[AnsdoShip]**](http://www.qinyueqwq.top/)
+
+---
+
+
 ### Link's Blog
 Link的Blog--[**[Link-Blog]**](https://atlinker.cn/)
 
