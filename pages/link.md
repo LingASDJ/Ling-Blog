@@ -28,7 +28,7 @@ permalink: /links.html
 </div>
 
 <div class="link-chip-div">
-<a href="https:////www.qinyueqwq.top/" target="_blank" class="link-chip ripple">
+<a href="http://www.qinyueqwq.top/" target="_blank" class="link-chip ripple">
  <img alt="QinYue Blog" src="https://jdsalingzx.top/assets/img/header/qinyue.png" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin3.png">
  <span title="QinYue Blog" class="link-chip-title">诺瑟斯外交部</span>
