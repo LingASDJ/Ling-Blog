@@ -455,3 +455,96 @@ a {
   } // social-icons
 
 }
+
+
+.link-chip {
+  width: 100%;
+  overflow: hidden;
+  display: inline-block;
+  border-style: solid;
+  border-color: #eee;
+  border-width: 0px;
+  height: 64px;
+  box-sizing: border-box;
+  padding-right: 8px;
+  margin: 2px 0;
+  white-space: nowrap;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: #fff;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 3px 1px -2px rgba(0,0,0,0.2),0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12);
+  box-shadow: 0 3px 1px -2px rgba(0,0,0,0.2),0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12);
+  -webkit-transition: box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: box-shadow
+}
+
+.link-chip-div {
+  display: inline-block;
+  width: 100%
+}
+
+@media (min-width: 767px) {
+  .link-chip-div {
+      width:49.66%
+  }
+}
+
+.link-chip:hover,.link-chip:focus {
+  -webkit-box-shadow: 0 3px 5px -1px rgba(0,0,0,0.2),0 5px 8px 0 rgba(0,0,0,0.14),0 1px 14px 0 rgba(0,0,0,0.12);
+  box-shadow: 0 3px 5px -1px rgba(0,0,0,0.2),0 5px 8px 0 rgba(0,0,0,0.14),0 1px 14px 0 rgba(0,0,0,0.12)
+}
+
+.link-chip:active {
+  background-color: #d6d6d6
+}
+
+.link-chip-icon {
+  display: inline-block;
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  font-size: 18px;
+  line-height: 32px;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #989898;
+  margin-left: 10px;
+  margin-bottom: -10px
+}
+
+.link-chip-icon .link-icon {
+  color: #fff
+}
+
+.link-chip-title {
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  color: #555;
+  display: inline-block;
+  height: 60px;
+  font-weight: bold;
+  padding-right: 12px;
+  padding-left: 12px;
+  font-size: 14px;
+  line-height: 60px;
+  vertical-align: middle;
+  margin-top: -8px
+}
+
+.link-chip-dc {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 11px;
+  margin-left: 65px;
+  margin-top: -18px;
+  color: #888
+}
