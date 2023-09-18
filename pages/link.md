@@ -7,7 +7,7 @@ permalink: /links.html
 
 ---
 
-[返回主页](https://jdsalingzx.top/))
+[返回主页](https://jdsalingzx.top/)
 
 
 <div class="link-chip-div">
