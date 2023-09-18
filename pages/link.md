@@ -103,9 +103,9 @@ permalink: /links.html
 
 <div class="link-chip-div">
 <a href="https://blog.tianscar.com" target="_blank" class="link-chip ripple">
- <img alt="Tianscar Blog" src="https://blog.tianscar.com/images/apple-touch-icon-next.png" class="link-chip-icon">
+ <img alt="Tianscar Blog" src="https://jdsalingzx.top/assets/img/header/tians.png" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin1.png">
- <span title="Tianscar Blog" class="link-chip-title">Tianscar's Blog</span>
+ <span title="Tianscar Blog" class="link-chip-title">碳酸的博客</span>
  <p class="link-chip-dc">Tianscar</p>
  </a>
 </div>
@@ -114,10 +114,29 @@ permalink: /links.html
  <a href="https://sitenav.tianscar.com" target="_blank" class="link-chip ripple">
  <img alt="Tianscar Nav" src="https://sitenav.tianscar.com/img/favicon.ico" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin3.png">
- <span title="Tianscar Nav" class="link-chip-title">Tianscar's Webs Nav</span>
+ <span title="Tianscar Nav" class="link-chip-title">碳酸的网址导航</span>
  <p class="link-chip-dc">Tianscar</p>
  </a>
 </div>
+
+<div class="link-chip-div">
+<a href="https://blog.rustedwarfare.cloud/" target="_blank" class="link-chip ripple">
+ <img alt="TwoMoon Blog" src="https://blog.rustedwarfare.cloud/img/favicon.png" class="link-chip-icon">
+ <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin1.png">
+ <span title="TwoMoon Blog" class="link-chip-title">二月の档案室</span>
+ <p class="link-chip-dc">归档员：二月</p>
+ </a>
+</div>
+
+<div class="link-chip-div">
+<a href="https://stevesuk.eu.org/" target="_blank" class="link-chip ripple">
+ <img alt="Stevesuk Blog" src="https://blog.cdn.stevesuk.eu.org/img/bg/mainicon.png" class="link-chip-icon">
+ <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin3.png">
+ <span title="Stevesuk Blog" class="link-chip-title">Stevesuk's Blog</span>
+ <p class="link-chip-dc">Stevesuk</p>
+ </a>
+</div>
+
 
 * 如果你也想添加友情链接，请在下方留言给我 :)
 
