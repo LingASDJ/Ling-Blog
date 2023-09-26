@@ -5,6 +5,9 @@ permalink: /changes.html
 tags: [ChangesLogs,Blog,Jekyll]
 ---
 
+#### 2023-9-26——(博客维护日志-类型：杂项调整)
+* 部分友情链接更新
+
 #### 2023-9-18——(博客维护日志-类型：杂项调整)
 * 添加二月の友链
 * 添加Stevesuk的友链

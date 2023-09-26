@@ -120,8 +120,8 @@ permalink: /links.html
 </div>
 
 <div class="link-chip-div">
-<a href="https://blog.rustedwarfare.cloud/" target="_blank" class="link-chip ripple">
- <img alt="TwoMoon Blog" src="https://blog.rustedwarfare.cloud/img/favicon.png" class="link-chip-icon">
+<a href="https://sky.bloodmoon.world/" target="_blank" class="link-chip ripple">
+ <img alt="TwoMoon Blog" src="https://sky.bloodmoon.world/img/favicon.png" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin1.png">
  <span title="TwoMoon Blog" class="link-chip-title">二月の档案室</span>
  <p class="link-chip-dc">归档员：二月</p>
