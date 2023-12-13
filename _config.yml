@@ -47,7 +47,7 @@ paginate: 3 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://rust.coldmint.top/ftp/ling/cdnpng/snow.jpg
-theme_color: f20099ff
+theme_color: 00adf294
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
