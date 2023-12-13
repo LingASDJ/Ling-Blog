@@ -1,5 +1,5 @@
 title: 绫中之书 #博客标题
-description: 秋枫之下竹林屋，期遇阅者述归途。 #博客描述
+description: 冬临白雪封山林，寻去竹林仍傲中。 #博客描述
 keywords: blog,css,html,js,javascripts,androidstuido,c# #博客关键字
 author: "JDSALing"
 
@@ -46,8 +46,8 @@ PJAX: false #启用PJAX，会与评论系统冲突（如不用评论系统建议
 paginate: 3 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://jdsalingzx.top/assets/img/header/moonxing.jpeg
-theme_color: f27937ba
+background: https://rust.coldmint.top/ftp/ling/cdnpng/snow.jpg
+theme_color: f20099ff
 
 # hydrogen-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

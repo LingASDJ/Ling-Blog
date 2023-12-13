@@ -20,7 +20,7 @@ permalink: /links.html
 </div>
 
 <div class="link-chip-div">
-<a href="#" target="_blank" class="link-chip ripple">
+<a href="https://wiki.qinyueqwq.top/" target="_blank" class="link-chip ripple">
  <img alt="Prohonor Tune" src="https://wiki.qinyueqwq.top/resources/assets/LogoIco.png" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin3.png">
  <span title="ColdMint Blog" class="link-chip-title">辉梦Wiki(敬请期待)</span>
@@ -75,11 +75,11 @@ permalink: /links.html
 </div>
 
 <div class="link-chip-div">
-<a href="https://masonosam.top/" target="_blank" class="link-chip ripple">
- <img alt="Mason Blog" src="https://masonosam.top/assets/mason.jpg" class="link-chip-icon">
+<a href="https://wuminboke.site/" target="_blank" class="link-chip ripple">
+ <img alt="无名博客" src="https://oss.wuminboke.site/img/avatar.webp" class="link-chip-icon">
  <img style="filter:opacity(0.8);float:right;height:64px;margin-right:-8px" src="https://jdsalingzx.top/assets/img/header/skin3.png">
- <span title="Mason Blog" class="link-chip-title">Mason_blog</span>
- <p class="link-chip-dc">Mason</p>
+ <span title="无名博客" class="link-chip-title">无名博客</span>
+ <p class="link-chip-dc">无名</p>
  </a>
 </div>
 
