@@ -3,6 +3,7 @@ layout: post
 title:  Pixel Dungeon-多语言逆向指南
 tags: [Java,Gradle,IDEA,经验交流,Smali,MT文件管理器]
 author: jdsaling
+stickie: true
 ---
 
 ---

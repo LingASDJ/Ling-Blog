@@ -3,6 +3,7 @@ layout: post
 title: 危机合约#12--起源行动
 tags: [Video,危机合约,明日方舟]
 author: jdsaling
+stickie: true
 ---
 
 ## 再见了，所有的危机合约!
