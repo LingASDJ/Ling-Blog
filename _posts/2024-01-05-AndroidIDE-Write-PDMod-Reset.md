@@ -27,6 +27,11 @@ wget https://www.pd.qinyueqwq.top/ftp/pd/ade/idesetupcn -O $SYSROOT/bin/idesetup
 ```
 
 下载完毕后：
+
+```bash
+idesetup
+```
+
 输入 `idesetup` 回车 输入 Y 再次回车即可
 
 注意：  
@@ -45,13 +50,13 @@ wget https://www.pd.qinyueqwq.top/ftp/pd/ade/idesetupcn -O $SYSROOT/bin/idesetup
 要想部署他们，  
 请在终端中输入指令：   
 
+### 2.2.1版本
 ```bash
-### 2.2.1
 git clone https://gitee.com/LingASDJ/SHPD-ADE-PACKAGE.git --branch 2.2.1-ADE /storage/emulated/0/AndroidIDEProjects/SHPD-ADE-2.2.1
 ```
 
+### 1.4.3版本
 ```bash
-### 1.4.3
 git clone https://gitee.com/LingASDJ/SHPD-ADE-PACKAGE.git --branch 1.4.3-ADE /storage/emulated/0/AndroidIDEProjects/SHPD-ADE-1.4.3
 ```
 
@@ -78,6 +83,11 @@ git clone https://gitee.com/LingASDJ/SHPD-ADE-PACKAGE.git --branch 1.4.3-ADE /st
 
 ## 1.ADE基础部署
 1.在群文件下载idesetupcn   
+
+```bash
+idesetupcn
+```
+
 2.cd到对应目录，输入 `idesetupcn` 等待部署完成
 
 ## 2.部署优化版
@@ -107,3 +117,9 @@ git clone https://gitee.com/LingASDJ/SHPD-ADE-PACKAGE.git --branch 1.4.3-ADE /st
 <img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release4.jpg">
 <img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release5.jpg">
 <img src="https://rust.coldmint.top/ftp/ling/cdnpng/adepng/release6.jpg">
+
+
+# 5.后续步骤
+在项目根目录的build.gradle中请修改你的包名和应用名字，请不要使用默认包名。   
+在`android\src\main\res`中含有`values-zh-rCN`和`values`文件夹，这两个可以修改崩溃报告界面文本。   
+最后预祝各位开发顺利，祝各位开发愉快！！！
