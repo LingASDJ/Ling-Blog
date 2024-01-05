@@ -5,6 +5,16 @@ permalink: /changes.html
 tags: [ChangesLogs,Blog,Jekyll]
 ---
 
+#### 2024-01-06——(博客维护日志-类型：更新)
+* 更新了新博客(类型:更新):
+
+<img src="https://rust.coldmint.top/ftp/ling/cdnpng/ready.jpg">
+
+#### [AndroidIDE-让手机写地牢Mod不再是梦!(2024-重制版)](https://jdsalingzx.top/2024/01/05/AndroidIDE-Write-PDMod-Reset.html)
+
+* 部分置顶文章调整
+
+
 #### 2023-12-15——(博客维护日志-类型：主题优化)
 * 添加澄沨的漫游茶记友链
 * 移除Mason的友链(原因:站长放弃维护&域名过期)
