@@ -3,7 +3,6 @@ layout: post
 title:  利用Exe4J & Inno Setup 将JAR编译为EXE (实现无JRE/JDK)
 tags: [Java,Gradle,IDEA,Exe4J,Inno Setup]
 author: jdsaling
-stickie: true
 ---
 
 ---
