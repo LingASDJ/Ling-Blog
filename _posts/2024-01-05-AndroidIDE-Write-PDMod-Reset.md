@@ -17,14 +17,15 @@ stickie: true
 <h2><a href="https://jq.qq.com/?_wv=1027&k=DOm63Y34">立即加入群聊：731514401</a></h2>
 
 ## 阅前说明：
-本教程基于ADE2.6.1说明，从本版本开始，我们的宗旨是：自动化AUTO！
+本教程基于ADE2.6.1  
+说明，从本版本开始，我们的宗旨是：自动化AUTO！
 
 # 1.开始部署：AndroidIDE-SDK
 1.下载安装完AndroidIDE后，将会提醒你JDK和SDK尚未安装
 
 # 线上部署方法(推荐)：
 
-## 1.ADE基础部署
+## 1.ADE基础部署(推荐WiFi优选部署)
 进入终端后，输入以下指令：
 
 ```bash
@@ -55,12 +56,15 @@ idesetup
 要想部署他们，  
 请在终端中输入指令：   
 
-### 2.2.1版本
+## 优化版特点：
+优化版已集成错误报告，更多地形，字段缺失检查器，未来还会有更多东西，敬请期待。
+
+### 2.2.1优化版本
 ```bash
 git clone https://gitee.com/LingASDJ/SHPD-ADE-PACKAGE.git --branch 2.2.1-ADE /storage/emulated/0/AndroidIDEProjects/SHPD-ADE-2.2.1
 ```
 
-### 1.4.3版本
+### 1.4.3优化版本
 ```bash
 git clone https://gitee.com/LingASDJ/SHPD-ADE-PACKAGE.git --branch 1.4.3-ADE /storage/emulated/0/AndroidIDEProjects/SHPD-ADE-1.4.3
 ```
