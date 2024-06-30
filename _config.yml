@@ -35,7 +35,7 @@ show: 愿与阅者寻归途
 pygments: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "jdsalingzx.top" # change this to the base hostname & protocol for your site
+url: "lingasdj.github.io/Ling-Blog/" # change this to the base hostname & protocol for your site
 buildtime: "1652774400" 
 #博客建立时的时间戳 可进入https://tool.lu/timestamp/
 #将博客建立时的日期转换成时间戳
